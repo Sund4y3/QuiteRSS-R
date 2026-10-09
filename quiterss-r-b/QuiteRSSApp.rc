@@ -1,0 +1,44 @@
+#pragma code_page(65001)
+IDI_ICON1               ICON    DISCARDABLE     "QuiteRSS.ico"
+
+#ifndef Q_CC_BOR
+# if defined(UNDER_CE) && UNDER_CE >= 400
+#  include <winbase.h>
+# else
+#  include <winver.h>
+# endif
+#endif
+#include "src/VersionNo.h"
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION FILEVER
+ PRODUCTVERSION PRODUCTVER
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "000004b0"
+        BEGIN
+            VALUE "CompanyName", "QuiteRSS Team, Sund4y3\0"
+            VALUE "Comments", "RSS/Atom news reader\0"
+            VALUE "FileDescription", "QuiteRSS-R b版\0"
+            VALUE "FileVersion", STRFILEVER_FULL
+            VALUE "InternalName", "QuiteRSS-R\0"
+	    VALUE "OriginalFilename", "QuiteRSS-R.exe\0"
+            VALUE "LegalCopyright", "Copyright (C) 2011-2021 QuiteRSS Team, 2026 Sund4y3\0"
+            VALUE "ProductName", "QuiteRSS-R\0"
+            VALUE "ProductVersion", STRPRODUCTVER
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x0, 1200
+    END
+END
