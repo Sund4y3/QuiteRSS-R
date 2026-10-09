@@ -1,8 +1,8 @@
-# QuiteRSS-R
+![图标a](quiterss-r-a/QuiteRSS.ico) ![图标b](quiterss-r-b/QuiteRSS.ico)
 
 Free news feeds reader.
 
-基于QuiteRSS项目复刻而来的开源RSS阅读器，使用AI编写。
+QuiteRSS-R 是基于QuiteRSS项目复刻而来的开源RSS阅读器，使用AI编写。
 
 QuiteRSS-R 与 QuiteRSS 在界面与功能上几乎完全相同，仅对部分内容进行优化和修整。
 
