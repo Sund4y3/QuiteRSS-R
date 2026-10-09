@@ -81,11 +81,43 @@ QuiteRSS-R/
 
 ## 🙏 致谢
 
+### 原项目 (QuiteRSS)
+
+本项目的所有基础代码与设计均来自 [QuiteRSS](https://github.com/QuiteRSS/quiterss) 项目。
+
 - **Idea**: *Quite fast and comfortable to user*
 - **QuiteRSS 团队联系方式**：quiterssteam@gmail.com
 - **QuiteRSS 代码仓库**：https://github.com/QuiteRSS/quiterss
 
 感谢 QuiteRSS 团队多年来的开源贡献。
+*   QuiteRSS 团队
+*   Egor Shilyaev
+*   arhohryakov
+*   Nikoli
+*   TotalCaesar659
+*   Kalinin Andrey
+*   Shilyaev
+*   Christian Stadelmann
+*   Riyad Preukschas
+*   Ivan Novikov
+*   ShamblerBishop
+*   darcosion
+*   Vant
+*   maboroshin
+*   رشيد
+*   cjaneway
+*   Kyle Katarn
+*   Balló György
+*   Aptrug
+*   antohami
+*   DanMan
+*   onlyjob
+*   Mehmet Karadeniz
+*   Nick Alcock
+*   Sergei K
+*   Codacy Badger
+*   Alexander Gavrilov
+*   rgamici
 
 ---
 
