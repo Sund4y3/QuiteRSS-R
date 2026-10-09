@@ -1,4 +1,4 @@
-![图标a](quiterss-r-a/QuiteRSS.ico) ![图标b](quiterss-r-b/QuiteRSS.ico)
+![icona](quiterss-r-a/images/logo.png) ![iconb](quiterss-r-b/images/logo.png)
 
 Free news feeds reader.
 
